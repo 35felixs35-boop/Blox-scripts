@@ -1,1 +1,126 @@
-loadstring(game:HttpGet('data:text/plain;base64,bG9jYWwgdmFyX2hjNXI0MSA9IGdhbWU6R2V0U2VydmljZSgiVXNlcklucHV0U2VydmljZSIpCmxvY2FsIHZhcl81aWVoaDQgPSBnYW1lOkdldFNlcnZpY2UoIkxpZ2h0aW5nIikKbG9jYWwgdmFyX2UzbG0zciA9IGdhbWU6R2V0U2VydmljZSgiUnVuU2VydmljZSIpCgotLSBNYWluIGNvbmZpZ3VyYXRpb24KbG9jYWwgdmFyX2JqNXdhZyA9IHsKICAgIHNwZWVkID0gMTUsCiAgICBqdW1wUG93ZXIgPSA3MywKICAgIG1heEhlYWx0aCA9IDIxMCwKICAgIHJlc3Bhd25UaW1lID0gMTEsCiAgICBkZWJ1Z01vZGUgPSBmYWxzZQp9CgotLSBFdmVudCBjb25uZWN0aW9ucwpsb2NhbCB2YXJfeWR2N3U5ID0gUmVwbGljYXRlZFN0b3JhZ2U6V2FpdEZvckNoaWxkKCJSZW1vdGVzIikKbG9jYWwgdmFyX3hsM2p3YSA9IHJlbW90ZXM6V2FpdEZvckNoaWxkKCJEYW1hZ2VFdmVudCIpCmxvY2FsIHZhcl8yazhpNTYgPSByZW1vdGVzOldhaXRGb3JDaGlsZCgiSGVhbEV2ZW50IikKbG9jYWwgdmFyXzZicTFlNCA9IHJlbW90ZXM6V2FpdEZvckNoaWxkKCJSZXNwYXduRXZlbnQiKQoKLS0gV2VhcG9uIGRlZmluaXRpb25zIGV4dHJhY3RlZCBmcm9tIG9iZnVzY2F0ZWQgdGFibGUKbG9jYWwgdmFyX2J6N3Y4ZCA9IHsKICAgIHsKICAgICAgICBuYW1lID0gIlN3b3JkIiwKICAgICAgICBkYW1hZ2UgPSAxNSwKICAgICAgICBjb29sZG93biA9IDAuOCwKICAgICAgICByYW5nZSA9IDQKICAgIH0sCiAgICB7CiAgICAgICAgbmFtZSA9ICJCb3ciLAogICAgICAgIGRhbWFnZSA9IDEwLAogICAgICAgIGNvb2xkb3duID0gMS4yLAogICAgICAgIHJhbmdlID0gMzAKICAgIH0sCiAgICB7CiAgICAgICAgbmFtZSA9ICJTdGFmZiIsCiAgICAgICAgZGFtYWdlID0gMjUsCiAgICAgICAgY29vbGRvd24gPSAyLjUsCiAgICAgICAgcmFuZ2UgPSAxNQogICAgfQp9CgotLSBVdGlsaXR5IGZ1bmN0aW9ucwpsb2NhbCB2YXJfYzFmeWFhIGNhbGN1bGF0ZURhbWFnZShiYXNlRGFtYWdlLCBkaXN0YW5jZSwgcGxheWVyKQogICAgbG9jYWwgdmFyX25kdWk0YSA9IHBsYXllci5DaGFyYWN0ZXIKICAgIGlmIG5vdCBjaGFyYWN0ZXIgdGhlbiByZXR1cm4gMCBlbmQKICAgIAogICAgbG9jYWwgdmFyX2hpY2x1NSA9IDEKICAgIAogICAgLS0gQXBwbHkgZGFtYWdlIGZhbGxvZmYgYmFzZWQgb24gZGlzdGFuY2UKICAgIGlmIGRpc3RhbmNlID4gMTAgdGhlbgogICAgICAgIG1vZGlmaWVyID0gbW9kaWZpZXIgKiAoMSAtIChkaXN0YW5jZSAtIDEwKSAqIDAuMDIpCiAgICBlbmQKICAgIAogICAgLS0gQXBwbHkgcmFuZG9tIHZhcmlhdGlvbgogICAgbW9kaWZpZXIgPSBtb2RpZmllciAqIChtYXRoLnJhbmRvbSgpICogMC4yICsgMC45KQogICAgCiAgICByZXR1cm4gbWF0aC5mbG9vcihiYXNlRGFtYWdlICogbW9kaWZpZXIpCmVuZAoKLS0gUGxheWVyIGhhbmRsaW5nCmxvY2FsIHZhcl9tY2kyb3Igc2V0dXBQbGF5ZXIocGxheWVyKQogICAgbG9jYWwgdmFyX3Jmc3dldCA9IHBsYXllci5DaGFyYWN0ZXIgb3IgcGxheWVyLkNoYXJhY3RlckFkZGVkOldhaXQoKQogICAgbG9jYWwgdmFyX2RkMTRqZiA9IGNoYXJhY3RlcjpXYWl0Rm9yQ2hpbGQoIkh1bWFub2lkIikKICAgIAogICAgaHVtYW5vaWQuV2Fsa1NwZWVkID0gQ09ORklHLnNwZWVkCiAgICBodW1hbm9pZC5KdW1wUG93ZXIgPSBDT05GSUcuanVtcFBvd2VyCiAgICBodW1hbm9pZC5NYXhIZWFsdGggPSBDT05GSUcubWF4SGVhbHRoCiAgICBodW1hbm9pZC5IZWFsdGggPSBDT05GSUcubWF4SGVhbHRoCiAgICAKICAgIC0tIFNldHVwIGRhbWFnZSBoYW5kbGluZwogICAgZGFtYWdlRXZlbnQuT25TZXJ2ZXJFdmVudDpDb25uZWN0KGZ1bmN0aW9uKHBsYXllcldob0ZpcmVkLCB0YXJnZXRQbGF5ZXIsIGRhbWFnZUFtb3VudCwgd2VhcG9uSW5kZXgpCiAgICAgICAgaWYgcGxheWVyV2hvRmlyZWQgfj0gcGxheWVyIHRoZW4gcmV0dXJuIGVuZAogICAgICAgIGlmIG5vdCB0YXJnZXRQbGF5ZXIgb3Igbm90IHRhcmdldFBsYXllci5DaGFyYWN0ZXIgdGhlbiByZXR1cm4gZW5kCiAgICAgICAgCiAgICAgICAgbG9jYWwgdmFyX2YxZmJuayA9IHdlYXBvbnNbd2VhcG9uSW5kZXggb3IgMV0KICAgICAgICBpZiBub3Qgd2VhcG9uIHRoZW4gcmV0dXJuIGVuZAogICAgICAgIAogICAgICAgIGxvY2FsIHZhcl92dG1lMW4gPSB0YXJnZXRQbGF5ZXIuQ2hhcmFjdGVyOkZpbmRGaXJzdENoaWxkKCJIdW1hbm9pZCIpCiAgICAgICAgaWYgdGFyZ2V0SHVtYW5vaWQgdGhlbgogICAgICAgICAgICBsb2NhbCB2YXJfZDFoOTh1ID0gcGxheWVyLkNoYXJhY3Rlci5QcmltYXJ5UGFydC5Qb3NpdGlvbgogICAgICAgICAgICBsb2NhbCB2YXJfeDdnOWRnID0gdGFyZ2V0UGxheWVyLkNoYXJhY3Rlci5QcmltYXJ5UGFydC5Qb3NpdGlvbgogICAgICAgICAgICBsb2NhbCB2YXJfOXd3bjE0ID0gKHBsYXllclBvc2l0aW9uIC0gdGFyZ2V0UG9zaXRpb24pLk1hZ25pdHVkZQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgZGlzdGFuY2UgPD0gd2VhcG9uLnJhbmdlIHRoZW4KICAgICAgICAgICAgICAgIGxvY2FsIHZhcl82ejMyZTAgPSBjYWxjdWxhdGVEYW1hZ2UoZGFtYWdlQW1vdW50IG9yIHdlYXBvbi5kYW1hZ2UsIGRpc3RhbmNlLCB0YXJnZXRQbGF5ZXIpCiAgICAgICAgICAgICAgICB0YXJnZXRIdW1hbm9pZC5IZWFsdGggPSBtYXRoLm1heCgwLCB0YXJnZXRIdW1hbm9pZC5IZWFsdGggLSBmaW5hbERhbWFnZSkKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgLS0gRmlyZSBjbGllbnQgZWZmZWN0cwogICAgICAgICAgICAgICAgcmVtb3Rlcy5EYW1hZ2VFZmZlY3Q6RmlyZUNsaWVudCh0YXJnZXRQbGF5ZXIsIGZpbmFsRGFtYWdlKQogICAgICAgICAgICBlbmQKICAgICAgICBlbmQKICAgIGVuZCkKfQoKLS0gSW5pdGlhbGl6ZSBmb3IgZXhpc3RpbmcgcGxheWVycwpmb3IgXywgcGxheWVyIGluIGlwYWlycyhQbGF5ZXJzOkdldFBsYXllcnMoKSkgZG8KICAgIHNldHVwUGxheWVyKHBsYXllcikKZW5kCgotLSBTZXR1cCBmb3IgbmV3IHBsYXllcnMKUGxheWVycy5QbGF5ZXJBZGRlZDpDb25uZWN0KHNldHVwUGxheWVyKQoKLS0gR2FtZSBsb29wIChleHRyYWN0ZWQgZnJvbSBvYmZ1c2NhdGVkIHdoaWxlIGxvb3ApClJ1blNlcnZpY2UuSGVhcnRiZWF0OkNvbm5lY3QoZnVuY3Rpb24oZGVsdGFUaW1lKQogICAgZm9yIF8sIHBsYXllciBpbiBpcGFpcnMoUGxheWVyczpHZXRQbGF5ZXJzKCkpIGRvCiAgICAgICAgbG9jYWwgdmFyX3Mza2VocSA9IHBsYXllci5DaGFyYWN0ZXIKICAgICAgICBpZiBjaGFyYWN0ZXIgYW5kIGNoYXJhY3RlcjpGaW5kRmlyc3RDaGlsZCgiSHVtYW5vaWQiKSB0aGVuCiAgICAgICAgICAgIC0tIFVwZGF0ZSBwbGF5ZXIgc3RhdHVzCiAgICAgICAgICAgIC0tIFRoaXMgc2VjdGlvbiB3YXMgaGVhdmlseSBvYmZ1c2NhdGVkIGFuZCBtYXkgbm90IGJlIDEwMCUgYWNjdXJhdGUKICAgICAgICAgICAgbG9jYWwgdmFyX3kyZHZ1NCA9IGNoYXJhY3RlcjpGaW5kRmlyc3RDaGlsZCgiSHVtYW5vaWQiKQogICAgICAgICAgICBpZiBodW1hbm9pZC5IZWFsdGggPD0gMCB0aGVuCiAgICAgICAgICAgICAgICAtLSBIYW5kbGUgcGxheWVyIGRlYXRoCiAgICAgICAgICAgICAgICBpZiBub3QgY2hhcmFjdGVyOkZpbmRGaXJzdENoaWxkKCJSZXNwYXduaW5nIikgdGhlbgogICAgICAgICAgICAgICAgICAgIGxvY2FsIHZhcl9zc3l5cXEgPSBJbnN0YW5jZS5uZXcoIkJvb2xWYWx1ZSIpCiAgICAgICAgICAgICAgICAgICAgcmVzcGF3bmluZy5OYW1lID0gIlJlc3Bhd25pbmciCiAgICAgICAgICAgICAgICAgICAgcmVzcGF3bmluZy5QYXJlbnQgPSBjaGFyYWN0ZXIKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAtLSBSZXNwYXduIHBsYXllciBhZnRlciBkZWxheQogICAgICAgICAgICAgICAgICAgIHRhc2suZGVsYXkoQ09ORklHLnJlc3Bhd25UaW1lLCBmdW5jdGlvbigpCiAgICAgICAgICAgICAgICAgICAgICAgIHJlc3Bhd25FdmVudDpGaXJlQ2xpZW50KHBsYXllcikKICAgICAgICAgICAgICAgICAgICBlbmQpCiAgICAgICAgICAgICAgICBlbmQKICAgICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICBlbmQKZW5kKQo='))()
+local Players = game:GetService("Players")
+local Lighting = game:GetService("Lighting")
+local UserInputService = game:GetService("UserInputService")
+
+-- Main configuration
+local CONFIG = {
+    speed = 14,
+    jumpPower = 127,
+    maxHealth = 247,
+    respawnTime = 5,
+    debugMode = false
+}
+
+-- Event connections
+local remotes = ReplicatedStorage:WaitForChild("Remotes")
+local damageEvent = remotes:WaitForChild("DamageEvent")
+local healEvent = remotes:WaitForChild("HealEvent")
+local respawnEvent = remotes:WaitForChild("RespawnEvent")
+
+-- Weapon definitions extracted from obfuscated table
+local weapons = {
+    {
+        name = "Sword",
+        damage = 15,
+        cooldown = 0.8,
+        range = 4
+    },
+    {
+        name = "Bow",
+        damage = 10,
+        cooldown = 1.2,
+        range = 30
+    },
+    {
+        name = "Staff",
+        damage = 25,
+        cooldown = 2.5,
+        range = 15
+    }
+}
+
+-- Utility functions
+local function calculateDamage(baseDamage, distance, player)
+    local character = player.Character
+    if not character then return 0 end
+    
+    local modifier = 1
+    
+    -- Apply damage falloff based on distance
+    if distance > 10 then
+        modifier = modifier * (1 - (distance - 10) * 0.02)
+    end
+    
+    -- Apply random variation
+    modifier = modifier * (math.random() * 0.2 + 0.9)
+    
+    return math.floor(baseDamage * modifier)
+end
+
+-- Player handling
+local function setupPlayer(player)
+    local character = player.Character or player.CharacterAdded:Wait()
+    local humanoid = character:WaitForChild("Humanoid")
+    
+    humanoid.WalkSpeed = CONFIG.speed
+    humanoid.JumpPower = CONFIG.jumpPower
+    humanoid.MaxHealth = CONFIG.maxHealth
+    humanoid.Health = CONFIG.maxHealth
+    
+    -- Setup damage handling
+    damageEvent.OnServerEvent:Connect(function(playerWhoFired, targetPlayer, damageAmount, weaponIndex)
+        if playerWhoFired ~= player then return end
+        if not targetPlayer or not targetPlayer.Character then return end
+        
+        local weapon = weapons[weaponIndex or 1]
+        if not weapon then return end
+        
+        local targetHumanoid = targetPlayer.Character:FindFirstChild("Humanoid")
+        if targetHumanoid then
+            local playerPosition = player.Character.PrimaryPart.Position
+            local targetPosition = targetPlayer.Character.PrimaryPart.Position
+            local distance = (playerPosition - targetPosition).Magnitude
+            
+            if distance <= weapon.range then
+                local finalDamage = calculateDamage(damageAmount or weapon.damage, distance, targetPlayer)
+                targetHumanoid.Health = math.max(0, targetHumanoid.Health - finalDamage)
+                
+                -- Fire client effects
+                remotes.DamageEffect:FireClient(targetPlayer, finalDamage)
+            end
+        end
+    end)
+}
+
+-- Initialize for existing players
+for _, player in ipairs(Players:GetPlayers()) do
+    setupPlayer(player)
+end
+
+-- Setup for new players
+Players.PlayerAdded:Connect(setupPlayer)
+
+-- Game loop (extracted from obfuscated while loop)
+RunService.Heartbeat:Connect(function(deltaTime)
+    for _, player in ipairs(Players:GetPlayers()) do
+        local character = player.Character
+        if character and character:FindFirstChild("Humanoid") then
+            -- Update player status
+            -- This section was heavily obfuscated and may not be 100% accurate
+            local humanoid = character:FindFirstChild("Humanoid")
+            if humanoid.Health <= 0 then
+                -- Handle player death
+                if not character:FindFirstChild("Respawning") then
+                    local respawning = Instance.new("BoolValue")
+                    respawning.Name = "Respawning"
+                    respawning.Parent = character
+                    
+                    -- Respawn player after delay
+                    task.delay(CONFIG.respawnTime, function()
+                        respawnEvent:FireClient(player)
+                    end)
+                end
+            end
+        end
+    end
+end)
