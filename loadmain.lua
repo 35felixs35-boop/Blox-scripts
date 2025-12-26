@@ -28,7 +28,7 @@ bg.ZIndex = 0
 bg.Parent = root
 TweenService:Create(bg, TweenInfo.new(0.25, Enum.EasingStyle.Sine), { BackgroundTransparency = 0.18 }):Play()
 
-local TITLE = "Solix Hub"
+local TITLE = "Blox Fruit Gui"
 local labels = {}
 local spacing = 48
 
