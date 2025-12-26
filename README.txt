@@ -1,1 +1,1 @@
---// This script was created by XHider https://discord.gg/infinityscript
+this script was stolen and hacked (hacked, that is, the system key was removed)
